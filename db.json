@@ -1,0 +1,51 @@
+{
+  "brokers": [
+    {
+      "id": 1,
+      "name": "Edward",
+      "surname": "Didukh",
+      "email": "ed.didukh@email.com",
+      "money": "10000"
+    },
+    {
+      "id": 2,
+      "name": "Alexey",
+      "surname": "Naumov",
+      "email": "elektronik@email.com",
+      "money": "12340"
+    },
+    {
+      "id": 3,
+      "name": "Sergey",
+      "surname": "Goretsky",
+      "email": "roger@email.com",
+      "money": "999998"
+    }
+  ],
+  "stocks": [
+    {
+      "id": 1,
+      "name": "ASAD",
+      "price": "19.0609",
+      "amount": 100
+    },
+    {
+      "id": 2,
+      "name": "APPLE",
+      "price": "4.4517",
+      "amount": "1001"
+    },
+    {
+      "id": 3,
+      "name": "GOOGLE",
+      "price": "12.0949",
+      "amount": "123"
+    },
+    {
+      "id": 4,
+      "name": "ONPU",
+      "price": "99.3129",
+      "amount": "1235"
+    }
+  ]
+}
