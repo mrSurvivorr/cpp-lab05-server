@@ -11,8 +11,6 @@ app.use(bodyParser.json());
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.set('views', path.join(__dirname, 'views'));
-app.engine('html', require('ejs').renderFile);
-app.set('view engine', 'html');
 
 const hostname = '0.0.0.0';
 const port = process.env.PORT || 3000;
